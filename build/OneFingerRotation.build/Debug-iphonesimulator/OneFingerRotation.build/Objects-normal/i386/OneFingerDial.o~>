@@ -1,0 +1,2 @@
+/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m: In function '-[OneFingerDial touchesEnded:withEvent:]':
+/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m:145: warning: unused variable 'adjRotation'

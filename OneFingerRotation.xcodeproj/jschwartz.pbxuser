@@ -1,0 +1,265 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* OneFingerRotationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 871}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1575}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* OneFingerRotation */ = {
+		activeExec = 0;
+		executables = (
+			6430A8231265066B00C17B3D /* OneFingerRotation */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* OneFingerRotationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 620}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 326}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* OneFingerRotationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 845}}";
+			sepNavSelRange = "{856, 0}";
+			sepNavVisRange = "{247, 1144}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6430A8231265066B00C17B3D /* OneFingerRotation */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OneFingerRotation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OneFingerRotation */,
+		);
+		codeSenseManager = 6430A8391265066F00C17B3D /* Code sense */;
+		executables = (
+			6430A8231265066B00C17B3D /* OneFingerRotation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					786,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308610668;
+			PBXWorkspaceStateSaveDate = 308610668;
+		};
+		perUserProjectItems = {
+			6430A90A1266254500C17B3D /* PBXTextBookmark */ = 6430A90A1266254500C17B3D /* PBXTextBookmark */;
+			6430A95812662BA100C17B3D /* PBXTextBookmark */ = 6430A95812662BA100C17B3D /* PBXTextBookmark */;
+			6430A9E1126636FD00C17B3D /* PBXTextBookmark */ = 6430A9E1126636FD00C17B3D /* PBXTextBookmark */;
+			6430A9E2126636FD00C17B3D /* PBXTextBookmark */ = 6430A9E2126636FD00C17B3D /* PBXTextBookmark */;
+			6430AA771267680F00C17B3D /* PlistBookmark */ = 6430AA771267680F00C17B3D /* PlistBookmark */;
+			6430AAA812676DD300C17B3D /* PBXTextBookmark */ = 6430AAA812676DD300C17B3D /* PBXTextBookmark */;
+			6430AABF1267B65500C17B3D /* PBXTextBookmark */ = 6430AABF1267B65500C17B3D /* PBXTextBookmark */;
+			6430AAC01267B65500C17B3D /* PBXTextBookmark */ = 6430AAC01267B65500C17B3D /* PBXTextBookmark */;
+			6430AB741267C5FC00C17B3D /* PBXTextBookmark */ = 6430AB741267C5FC00C17B3D /* PBXTextBookmark */;
+			6430ABE31267CE8F00C17B3D /* PBXTextBookmark */ = 6430ABE31267CE8F00C17B3D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6430A8381265066F00C17B3D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6430A8231265066B00C17B3D /* OneFingerRotation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OneFingerRotation;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6430A8381265066F00C17B3D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6430A8391265066F00C17B3D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6430A83D1265073D00C17B3D /* OneFingerDial.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 1443}}";
+			sepNavSelRange = "{1096, 0}";
+			sepNavVisRange = "{605, 1730}";
+			sepNavWindowFrame = "{{15, 327}, {1573, 846}}";
+		};
+	};
+	6430A83E1265073D00C17B3D /* OneFingerDial.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 3874}}";
+			sepNavSelRange = "{1230, 0}";
+			sepNavVisRange = "{292, 509}";
+			sepNavWindowFrame = "{{435, 157}, {1573, 846}}";
+		};
+	};
+	6430A8FF126623AE00C17B3D /* MathUtil.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 619}}";
+			sepNavSelRange = "{165, 2}";
+			sepNavVisRange = "{0, 401}";
+		};
+	};
+	6430A900126623AE00C17B3D /* MathUtil.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 620}}";
+			sepNavSelRange = "{342, 67}";
+			sepNavVisRange = "{0, 731}";
+		};
+	};
+	6430A90A1266254500C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A90B1266254500C17B3D /* GameControl.m */;
+		name = "GameControl.m: 57";
+		rLen = 983;
+		rLoc = 816;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 1224;
+	};
+	6430A90B1266254500C17B3D /* GameControl.m */ = {
+		isa = PBXFileReference;
+		name = GameControl.m;
+		path = /Users/jschwartz/Documents/Projects/iPhone/SpaceFighter/SpaceFighter/Classes/GameControl.m;
+		sourceTree = "<absolute>";
+	};
+	6430A95812662BA100C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OneFingerRotationAppDelegate.m */;
+		name = "OneFingerRotationAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1575;
+		vrLoc = 0;
+	};
+	6430A9E1126636FD00C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A900126623AE00C17B3D /* MathUtil.m */;
+		name = "MathUtil.m: 23";
+		rLen = 67;
+		rLoc = 342;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 0;
+	};
+	6430A9E2126636FD00C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* OneFingerRotationViewController.h */;
+		name = "OneFingerRotationViewController.h: 13";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 0;
+	};
+	6430AA771267680F00C17B3D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* OneFingerRotation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotation-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6430AAA812676DD300C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A8FF126623AE00C17B3D /* MathUtil.h */;
+		name = "MathUtil.h: 10";
+		rLen = 2;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	6430AABF1267B65500C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OneFingerRotationViewController.m */;
+		name = "OneFingerRotationViewController.m: 39";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 1144;
+		vrLoc = 247;
+	};
+	6430AAC01267B65500C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A83E1265073D00C17B3D /* OneFingerDial.m */;
+		name = "OneFingerDial.m: 16";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 1309;
+		vrLoc = 0;
+	};
+	6430AB741267C5FC00C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A83D1265073D00C17B3D /* OneFingerDial.h */;
+		name = "OneFingerDial.h: 48";
+		rLen = 0;
+		rLoc = 1096;
+		rType = 0;
+		vrLen = 1717;
+		vrLoc = 618;
+	};
+	6430ABE31267CE8F00C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6430A83D1265073D00C17B3D /* OneFingerDial.h */;
+		name = "OneFingerDial.h: 48";
+		rLen = 0;
+		rLoc = 1096;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 605;
+	};
+}

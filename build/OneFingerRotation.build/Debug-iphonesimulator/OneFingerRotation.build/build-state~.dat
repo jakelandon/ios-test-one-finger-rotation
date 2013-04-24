@@ -1,0 +1,306 @@
+TOneFingerRotation
+v7
+r0
+t308611054.961612
+cCheck dependencies
+cProcessInfoPlistFile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/Info.plist OneFingerRotation-Info.plist
+cCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib
+cCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib
+cCpResource build/Debug-iphonesimulator/OneFingerRotation.app/dial.png assets/dial.png
+cProcessPCH /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch.gch OneFingerRotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/main.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationAppDelegate.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationViewController.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerDial.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation normal i386
+cGenerateDSYMFile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app.dSYM /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation
+cTouch /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CA394670000000000000110
+t1285788775
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C99BDBC000000000029B310
+t1285143996
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C99BE55000000000029D5D0
+t1285144149
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C99BE3E0000000000001466
+t1285144126
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C99C5250000000000000AA1
+t1285145893
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C99C5B40000000000744330
+t1285146036
+s7619376
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.h
+c000000004CB4CFC500000000000000E5
+t1286918085
+s229
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m
+c000000004CB4D0260000000000000300
+t1286918182
+s768
+i"OneFingerDial.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.h
+c000000004CB4CEEB000000000000020C
+t1286917867
+s524
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m
+c000000004CB4CEEB00000000000007CD
+t1286917867
+s1997
+i"OneFingerRotationAppDelegate.h"
+i"OneFingerRotationViewController.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.h
+c000000004CB4D03A000000000000012E
+t1286918202
+s302
+i<UIKit/UIKit.h>
+i"OneFingerDial.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m
+c000000004CB4D06B0000000000000444
+t1286918251
+s1092
+i"OneFingerRotationViewController.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib
+c000000004CB4CEEB0000000000004D6D
+t1286917867
+s19821
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib
+c000000004CB4CEEB0000000000003F09
+t1286917867
+s16137
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotation_Prefix.pch
+c000000004CB4CEEB00000000000000CB
+t1286917867
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/assets/dial.png
+c000000004CB4CF9200000000000022FB
+t1286918034
+s8955
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app
+t1286918254
+s272
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app.dSYM
+t1286918254
+s102
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/Info.plist
+t1286918252
+s844
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/MainWindow.nib
+t1286918253
+s1143
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation
+t1286918254
+s19532
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotationViewController.nib
+t1286918253
+s764
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/PkgInfo
+t1286918252
+s8
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/dial.png
+t1286918252
+s8955
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerDial.o
+t1286918254
+s39112
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotation.LinkFileList
+c000000004CB4D06C000000000000032C
+t1286918252
+s812
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationAppDelegate.o
+t1286918254
+s50744
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationViewController.o
+t1286918254
+s41176
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/main.o
+t1286918254
+s6396
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m
+c000000004CB4CEEB0000000000000164
+t1286917867
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch.gch
+t1286918254
+s15437008
+
+NOneFingerRotation-Info.plist
+c000000004CB4CEEB00000000000004D6
+t1286917867
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308611052#308611052#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerDial.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308611054.477226
+e308611054.609597
+r1
+xCompileC
+xbuild/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerDial.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m308611054#308611054#0(0"0(0#0#108"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m8619387264#2646"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerDial.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerDial.o0#
+
+CCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationAppDelegate.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308611054.475499
+e308611054.617004
+r1
+xCompileC
+xbuild/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationAppDelegate.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m308611054#308611054#0(0"0(0#0#123"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m8619683712#2676"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationAppDelegate.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationAppDelegate.o0#
+
+CCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationViewController.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308611054.476337
+e308611054.609875
+r1
+xCompileC
+xbuild/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationViewController.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m308611054#308611054#0(0"0(0#0#126"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m8619601216#2682"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/Classes/OneFingerRotationViewController.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotationViewController.o0#
+
+CCompileC build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/main.o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308611054.474430
+e308611054.600410
+r1
+xCompileC
+xbuild/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/main.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m308611054#308611054#0(0"0(0#0#91"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m8620174336#2620"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/main.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib
+s308611052.876883
+e308611053.308647
+r1
+xCompileXIB
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308611052#308611053#0(0"0(0#0#99"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib8618633632#718"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/MainWindow.nib /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib
+s308611052.878311
+e308611053.308427
+r1
+xCompileXIB
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib
+lSLF07#2@46"CompileXIB OneFingerRotationViewController.xib308611052#308611053#0(0"0(0#0#120"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib8617885056#760"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotationViewController.nib /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/OneFingerRotation.app/dial.png assets/dial.png
+s308611052.878941
+e308611052.916112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OneFingerRotation.app/dial.png
+xassets/dial.png
+lSLF07#2@20"Copy assets/dial.png308611052#308611052#0(0"0(0#0#100"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/assets/dial.png8619122944#621"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/assets/dial.png /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app0#
+
+CGenerateDSYMFile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app.dSYM /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation
+s308611054.854955
+e308611054.934340
+r1
+xGenerateDSYMFile
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app.dSYM
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/OneFingerRotation.app.dSYM build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation308611054#308611054#0(0"0(0#0#152"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation8618395424#551"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app.dSYM0#
+
+CLd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation normal i386
+s308611054.617084
+e308611054.854857
+r1
+xLd
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation
+xnormal
+xi386
+lSLF07#2@157"Link /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation308611054#308611054#0(0"0(0#0#0"8619143904#1180"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -filelist /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/Objects-normal/i386/OneFingerRotation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/OneFingerRotation0#
+
+CProcessInfoPlistFile /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/Info.plist OneFingerRotation-Info.plist
+s308611052.853041
+e308611052.876794
+r1
+xProcessInfoPlistFile
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/Info.plist
+xOneFingerRotation-Info.plist
+lSLF07#2@36"Process OneFingerRotation-Info.plist308611052#308611052#0(0"0(0#0#113"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotation-Info.plist32651513917866096#647"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OneFingerRotation-Info.plist -genpkginfo /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app/Info.plist0#
+
+CProcessPCH /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch.gch OneFingerRotation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308611053.308742
+e308611054.474256
+r1
+xProcessPCH
+x/var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch.gch
+xOneFingerRotation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile OneFingerRotation_Prefix.pch308611053#308611054#0(0"0(0#0#113"/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotation_Prefix.pch7074442983753741312#2456"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/OneFingerRotation-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/OneFingerRotation.build/Debug-iphonesimulator/OneFingerRotation.build/DerivedSources -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/OneFingerRotation_Prefix.pch -o /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/OneFingerRotation_Prefix-blmvscggecghxmcooxewhejgkgfq/OneFingerRotation_Prefix.pch.gch0#
+
+CTouch /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app
+s308611054.934428
+e308611054.961461
+r1
+xTouch
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app
+lSLF07#2@140"Touch /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app308611054#308611054#0(0"0(0#0#0"8617982752#380"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/OneFingerRotation/OneFingerRotation/build/Debug-iphonesimulator/OneFingerRotation.app0#
+
